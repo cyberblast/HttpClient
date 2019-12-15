@@ -2,7 +2,7 @@
 
 A simple HttpClient for node.js
 
-[![Build Status](https://travis-ci.com/cyberblast/httpclient.svg?branch=dev)](https://travis-ci.com/cyberblast/httpclient)
+[![Build Status](https://travis-ci.com/cyberblast/httpclient.svg?branch=dev)](https://travis-ci.com/cyberblast/HttpClient.svg?branch=dev)
 [![npm version](https://badge.fury.io/js/%40cyberblast%2Fhttpclient.svg)](https://badge.fury.io/js/%40cyberblast%2Fhttpclient)
 
 ## Legal
