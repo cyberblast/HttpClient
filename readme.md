@@ -8,5 +8,3 @@ A simple HttpClient for node.js
 ## Legal
 
 Please take note of files [LICENSE](https://raw.githubusercontent.com/cyberblast/httpclient/master/LICENSE) and [CONTRIBUTING](https://raw.githubusercontent.com/cyberblast/httpclient/master/CONTRIBUTING).
-
-This is an experimental piece of code. This is NOT a production ready web server. Use on your own risk.
