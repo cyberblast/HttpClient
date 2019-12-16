@@ -44,5 +44,14 @@ HttpClient.get = async function(url) {
   return await HttpClient.request({ url });
 }
 HttpClient.post = async function(url, body) {
-  return await HttpClient.request({ url, body });
+  return await HttpClient.request({ 
+    url, 
+    body,
+    options: {
+      headers: {
+        'Content-Type': 'application/json',
+        'Content-Length': body.length
+      }
+    }
+  });
 }
